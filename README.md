@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Gabriel Guimarães
 
 **MSc Student in Applied Physics**  
-
-🔗 LinkedIn: [https://www.linkedin.com/in/david-gabriel-guimaraes](https://www.linkedin.com/in/david-gabriel-guimaraes/)
-📫 Email: dgabrielg98@gmail.com
-
 Focused on **Explainable AI (XAI)**, **Genetic Algorithms**, and **Applied Machine Learning** for scientific and real-world problems.
 
 ---
